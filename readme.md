@@ -14,7 +14,7 @@ Before running the script, make sure you have the following:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Lylinnnnn/email_extractor.git
 ```
 
 2. Install the required packages using pip:
